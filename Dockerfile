@@ -2,7 +2,7 @@ FROM python:3.9-slim
 
 WORKDIR /docs
 
-RUN pip install --no-cache-dir mkdocs mkdocs-material
+RUN pip install --no-cache-dir mkdocs mkdocs-material "mkdocs-material[imaging]"
 
 COPY . .
 
