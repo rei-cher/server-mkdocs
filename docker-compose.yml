@@ -1,0 +1,6 @@
+services:
+    mkdocs:
+        container_name: server-mkdocs
+        build: .
+        ports:
+            - "8888:8888"
