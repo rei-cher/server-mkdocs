@@ -1,17 +1,21 @@
-# Welcome to MkDocs
+# Medical Diagnoses Documentation
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Welcome to the Medical Diagnoses Documentation site. This documentation covers various conditions and their approved treatments, medication options, and other related details.
 
-## Commands
+## Getting Started
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+#### Select a condition from the list above to view detailed information about:
+- Its diagnosis
+- treatment options
+- FDA-approved medications. 
+##### Each page is structured to help you quickly find the information you need.
 
-## Project layout
+## Conditions
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- [Acne Vulgaris (L70.0)](diagnosis/acne_vulgaris.md)
+- [Rosacea (L71.9)](diagnosis/rosacea.md)
+- [Atopic Dermatitis (L20.89)](diagnosis/atopic_dermatitis.md)
+- [Psoriasis Vulgaris (L40.0)](diagnosis/psoriasis_vulgaris.md)
+
+## Doctors' NPI
+- [NPI](additionals/npi.md)
