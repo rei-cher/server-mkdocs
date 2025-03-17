@@ -1,3 +1,7 @@
+---
+hide:
+  - navigation
+---
 # Medical Diagnoses Documentation
 
 Welcome to the Medical Diagnoses Documentation site. This documentation covers various conditions and their approved treatments, medication options, and other related details.
@@ -18,4 +22,4 @@ Welcome to the Medical Diagnoses Documentation site. This documentation covers v
 - [Psoriasis Vulgaris (L40.0)](diagnosis/psoriasis_vulgaris.md)
 
 ## Doctors' NPI
-- [NPI](additionals/npi.md)
+- [NPI](extras/npi.md)

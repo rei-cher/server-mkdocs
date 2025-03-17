@@ -3,8 +3,9 @@ theme:
   name: material
   features:
     - navigation.sections
+    - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.indexes 
-    - navigation.path
     - navigation.top
     - navigation.tracking
     - toc.integrate
