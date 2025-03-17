@@ -113,14 +113,14 @@
 - Notes: Similarly approved for atopic dermatitis, used off-label.
 
 ## <b style="color:red">Biologics</b>
-:exclamation:<b>Important</b>
+!!! tip "Important"
+    With biologics, it is <u>necessary</u> to invlude thoose lines (even if some portions was answered during Q&A)
 
-With biologics, it is <u>necessary</u> to invlude thoose lines (even if some portions was answered during Q&A)
-```
-Patient will continue using topical emollients in problem areas. 
-Patient will not be on any biologics, jak inhibiters, or immunossupressants. 
-Patient is not immunocompromised.
-```
+    ```
+    Patient will continue using topical emollients in problem areas. 
+    Patient will not be on any biologics, jak inhibiters, or immunossupressants. 
+    Patient is not immunocompromised.
+    ```
 ### <u  style="color:teal">DUPIXENT</u>
 - Approval: FDA-approved for adults with moderate-to-severe AD and infants (6 months+) in 2022.
 ### <u  style="color:teal">ADBRY</u>

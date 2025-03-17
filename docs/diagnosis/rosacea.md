@@ -4,10 +4,9 @@
 
 ### <u  style="color:teal">Metronidazole (Metrogel, Metrocream, Metrolotion)</u>
 - Formulation: Available as 0.75% or 1% gel, cream, or lotion
-``` title="Note"
-For Metrolotion to be approved:
-- patient has to try Metrocream (ineffective and burning) and Azelaic Acid 15%
-```
+!!! note
+    For Metrolotion to be approved:
+    patient has to try Metrocream <u>(ineffective and burning)</u> and Azelaic Acid 15%
 
 ### <u  style="color:teal">Azelaic Acid (Finacea)</u>
 - Formulation: 15% gel or foam

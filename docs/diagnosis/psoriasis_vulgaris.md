@@ -46,6 +46,14 @@
 - SOTYKTU 6MG – Approved in 2022 for moderate-to-severe plaque psoriasis.
 
 ## <b  style="color:red">Biologics (Injectable)</b>
+!!! tip "Important"
+    With biologics, it is <u>necessary</u> to invlude thoose lines (even if some portions was answered during Q&A)
+
+    ```
+    Patient will continue using topical emollients in problem areas. 
+    Patient will not be on any biologics, jak inhibiters, or immunossupressants. 
+    Patient is not immunocompromised.
+    ```
 
 ### <u  style="color:teal">Tumor Necrosis Factor-alpha (TNF-alpha) Inhibitors</u>
 - ENBREL
@@ -67,8 +75,8 @@
 - ILUMYA
 - SKYRIZI
 
-## <b  style="color:red">Notes</b>
-1. Biosimilars: Several TNF-alpha inhibitors (e.g., adalimumab, infliximab, etanercept) have FDA-approved biosimilars (e.g., Amjevita for Humira). These are "highly similar" alternatives and may be used interchangeably depending on availability and insurance.
-2. Pending Approvals: As of March 5, 2025, roflumilast foam (Zoryve foam 0.3%) is under FDA review for scalp and body psoriasis with a PDUFA date of May 22, 2025.
-3. Off-Label Use: Some medications (e.g., tacrolimus, hydroxyurea) are not FDA-approved specifically for psoriasis but are used off-label in certain cases.
-4. Children: Specific approvals for pediatric use are noted where applicable (e.g., etanercept, ustekinumab, secukinumab, ixekizumab).
+!!! note 
+    1. Biosimilars: Several TNF-alpha inhibitors (e.g., adalimumab, infliximab, etanercept) have FDA-approved biosimilars (e.g., Amjevita for Humira). These are "highly similar" alternatives and may be used interchangeably depending on availability and insurance.
+    2. Pending Approvals: As of March 5, 2025, roflumilast foam (Zoryve foam 0.3%) is under FDA review for scalp and body psoriasis with a PDUFA date of May 22, 2025.
+    3. Off-Label Use: Some medications (e.g., tacrolimus, hydroxyurea) are not FDA-approved specifically for psoriasis but are used off-label in certain cases.
+    4. Children: Specific approvals for pediatric use are noted where applicable (e.g., etanercept, ustekinumab, secukinumab, ixekizumab).

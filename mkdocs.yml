@@ -6,6 +6,7 @@ theme:
     - navigation.indexes 
     - navigation.path
     - navigation.top
+    - navigation.tracking
     - toc.integrate
     - search.suggest
     - search.highlight
@@ -23,6 +24,9 @@ plugins:
   - search
 
 markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite
