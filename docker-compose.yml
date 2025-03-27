@@ -5,7 +5,9 @@ services:
         ports:
             - "8888:8888"
         networks:
-        - inside-server
+            - inside-server
+
+        restart: unless-stopped
 
 networks:
   inside-server:

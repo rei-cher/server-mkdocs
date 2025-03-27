@@ -53,6 +53,7 @@
     Patient will continue using topical emollients in problem areas. 
     Patient will not be on any biologics, jak inhibiters, or immunossupressants. 
     Patient is not immunocompromised.
+    Patient has over 65% BSA.
     ```
 
 ### <u  style="color:teal">Tumor Necrosis Factor-alpha (TNF-alpha) Inhibitors</u>

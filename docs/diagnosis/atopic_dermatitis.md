@@ -111,6 +111,8 @@
 - Notes: FDA-approved for atopic dermatitis but used off-label for psoriasis.
 ### <u  style="color:teal">Pimecrolimus</u>
 - Notes: Similarly approved for atopic dermatitis, used off-label.
+### <u style="color:teal">Eucrisa</u>
+- Notes: FDA-approved for atopic dermatitis
 
 ## <b style="color:red">Biologics</b>
 !!! tip "Important"
@@ -120,6 +122,7 @@
     Patient will continue using topical emollients in problem areas. 
     Patient will not be on any biologics, jak inhibiters, or immunossupressants. 
     Patient is not immunocompromised.
+    Patient has over 65% BSA.
     ```
 ### <u  style="color:teal">DUPIXENT</u>
 - Approval: FDA-approved for adults with moderate-to-severe AD and infants (6 months+) in 2022.

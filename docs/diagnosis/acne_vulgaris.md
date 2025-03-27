@@ -63,8 +63,11 @@ hidden: true
 
 ### <u  style="color:teal">Doxycycline</u>
 - FDA Approval
-    - Approved as an oral tetracycline antibiotic for acne (e.g., Doryx, Vibramycin).
+    - Approved as an oral tetracycline antibiotic for acne (e.g., Doryx, Vibramycin, Targadox 50mg).
     - Examples: Doxycycline hyclate or monohydrate.
+!!! Warning "Targadox PA information"
+    For all PAs on Targadox, always add that patient has used both <u><b>Doxyxycline Monohydrate</b></u> and 
+    <u><b>Doxycycline Hylcate</b></u>
 
 ### <u  style="color:teal">Minocycline</u>
 - FDA Approval
