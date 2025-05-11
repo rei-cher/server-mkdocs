@@ -126,6 +126,11 @@
     ```
 ### <u  style="color:teal">DUPIXENT</u>
 - Approval: FDA-approved for adults with moderate-to-severe AD and infants (6 months+) in 2022.
+!!! note
+    For continuation of Dupixent to be approved
+    ```
+    Patient showed significant improvements (BSA less than 20%) and stabilization.
+    ```
 ### <u  style="color:teal">ADBRY</u>
 - Approval: FDA-approved in December 2021 for adults with moderate-to-severe AD.
 ### <u  style="color:teal">EBGLYSS</u>
@@ -147,5 +152,7 @@
 
 ### <u  style="color:teal">Topical JAK Inhibitors</u>
 #### <u  style="color:teal">OPZELURA</u>
+!!! note
+    For opzelura to be approved, BSA has to be less than 20%
 - Approval: FDA-approved in September 2021 for short-term, non-continuous treatment of mild-to-moderate AD in patients 12+.
 - Notes: First topical JAK inhibitor for AD; applied as a cream, also approved for vitiligo (2022).
