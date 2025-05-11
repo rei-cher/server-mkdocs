@@ -28,6 +28,8 @@
 - ZORYVE 0.3% – Approved in 2022 for plaque psoriasis, including intertriginous areas, in adults and adolescents 12+.
 
 ### <u  style="color:teal">Combination Therapies</u>
+!!! tip "Important"
+        In order for combination drug be approved, patient has to try and fail the individual components when taken simultaneously.
 - Calcipotriene + Betamethasone (e.g., Enstilar, Taclonex)
 
 ## <b  style="color:red">Systemic Treatments (Oral/Non-Biologic)</b>

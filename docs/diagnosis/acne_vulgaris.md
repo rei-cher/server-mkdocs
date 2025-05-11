@@ -31,6 +31,8 @@ hidden: true
 - FDA Approval
     - Approved as a topical antibiotic (e.g., 1% solution, gel, or lotion).
     - Examples: Cleocin T, Clindagel (often found in combination products like BenzaClin or Acanya).
+    !!! note
+        In order for combination drug be approved, patient has to try and fail the individual components when taken simultaneously.
 
 ### <u  style="color:teal">Erythromycin</u>
 - FDA Approval
@@ -43,6 +45,8 @@ hidden: true
     - Examples: Aczone.
 
 ## <b  style="color:red">Combination Therapies</b>
+    !!! tip "Important"
+        In order for combination drug be approved, patient has to try and fail the individual components when taken simultaneously.
 
 ### <u  style="color:teal">Epiduo/Epiduo Forte </u>
 - Adapalene + Benzoyl Peroxide
