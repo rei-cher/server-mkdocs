@@ -6,7 +6,7 @@ hidden: true
 
 ### <u  style="color:teal">Zoryve Foam</u>
 !!! tip "Important"
-    <u>To be approved with all insurances</u>
+    <u>To be approved with all insurances</u></br>
         Patient has to try and fail:
         <ul>
             <li>ketocanazole 2% (<b>RX only</b>)</li>
