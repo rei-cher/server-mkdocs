@@ -45,8 +45,8 @@ hidden: true
     - Examples: Aczone.
 
 ## <b  style="color:red">Combination Therapies</b>
-    !!! tip "Important"
-        In order for combination drug be approved, patient has to try and fail the individual components when taken simultaneously.
+!!! tip "Important"
+    In order for combination drug be approved, patient has to try and fail the individual components when taken simultaneously.
 
 ### <u  style="color:teal">Epiduo/Epiduo Forte </u>
 - Adapalene + Benzoyl Peroxide
