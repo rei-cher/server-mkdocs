@@ -23,7 +23,12 @@
 
 ### <u  style="color:teal">Aryl Hydrocarbon Receptor (AhR) Agonists</u>
 - VTAMA – Approved in 2022 for mild, moderate, and severe plaque psoriasis.
-
+!!! note
+    ```
+        BSA has to have less than 20%.
+        Be used for face and groin areas.
+        Used one calcineurin inhibitors. (tacrolimus/pimecrolimus)
+    ```
 ### <u  style="color:teal">Phosphodiesterase-4 (PDE4) Inhibitors</u>
 - ZORYVE 0.3% – Approved in 2022 for plaque psoriasis, including intertriginous areas, in adults and adolescents 12+.
 

@@ -129,7 +129,7 @@
 !!! note
     For continuation of Dupixent to be approved
     ```
-    Patient showed significant improvements (BSA less than 20%) and stabilization.
+    Patient showed significant improvements (BSA less than 3%) and stabilization.
     ```
 ### <u  style="color:teal">ADBRY</u>
 - Approval: FDA-approved in December 2021 for adults with moderate-to-severe AD.

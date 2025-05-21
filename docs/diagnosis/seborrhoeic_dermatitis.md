@@ -13,5 +13,6 @@ hidden: true
             <li>sodium sulfur-sulfacetamide 10-5% (<b>RX only</b>)</li>
             <li>selenium sulfide (<b>OTC</b>)</li>
             <li>zinc pyrithione (<b>OTC</b>)</li>
-            <li>nizazole salicylic acid shampoo (<b>OTC</b>)</li>
+            <li>nizoral salicylic acid shampoo (<b>OTC</b>)</li>
+            <li>selenium sulfide 1%</li>
         </ul>
