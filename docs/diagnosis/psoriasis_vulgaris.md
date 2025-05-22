@@ -63,6 +63,8 @@
     Patient has over 65% BSA.
     Patient TB is negative.
     ```
+!!! Warning "Weight and height"
+    For all biologicals, include approximate weight and height of the patient.
 
 ### <u  style="color:teal">Tumor Necrosis Factor-alpha (TNF-alpha) Inhibitors</u>
 - ENBREL
