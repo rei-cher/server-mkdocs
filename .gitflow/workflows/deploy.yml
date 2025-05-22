@@ -1,0 +1,20 @@
+name: Auto Deployment
+
+on:
+    push:
+        branches:
+            - main
+jobs:
+    deploy:
+        steps:
+            - name: Set up SSH key
+              run: |
+                  mkdir -p ~/.ssh
+                  echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_ed25519
+                  chmod 600 ~/.ssh/id_ed25519
+                  ssh-keyscan -H ${{ sectets.SSH_HOST }} >> ~/.ssh/known_hosts
+
+            - name: Run restart.sh on server
+              run: |
+                  ssh -p 2222 -i ~/.ssh/id_ed25519 ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }} \
+                  'cd ~/projects/server-utils/server-mkdocs && bash ./restart.sh'
