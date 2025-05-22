@@ -126,6 +126,11 @@
     Patient is not immunocompromised.
     Patient has over 65% BSA.
     ```
+
+!!! Warning "Weight and height"
+    For all ages for biologic include the weight and height of the patient (approximate)
+
+
 ### <u  style="color:teal">DUPIXENT</u>
 - Approval: FDA-approved for adults with moderate-to-severe AD and infants (6 months+) in 2022.
 !!! note
