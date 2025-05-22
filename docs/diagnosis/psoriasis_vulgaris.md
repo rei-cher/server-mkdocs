@@ -61,6 +61,7 @@
     Patient will not be on any biologics, jak inhibiters, or immunossupressants. 
     Patient is not immunocompromised.
     Patient has over 65% BSA.
+    Patient TB is negative.
     ```
 
 ### <u  style="color:teal">Tumor Necrosis Factor-alpha (TNF-alpha) Inhibitors</u>
