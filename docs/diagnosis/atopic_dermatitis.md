@@ -18,6 +18,8 @@
 - Brand Examples: Capex (shampoo combo), Derma-Smoothe/FS (oil)
 - Use: Mild AD, often for scalp or sensitive areas.
 - Notes: Solution/oil forms used for scalp AD
+!!! Note "To be approved"
+  Alclometasone Dipropionate 0.05%, Fluocinolone Acetonide 0.025%
 
 ### <u  style="color:teal">Alclometasone Dipropionate 0.05%</u>
 - Formulations: Cream, Ointment
