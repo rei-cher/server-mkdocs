@@ -70,8 +70,7 @@ hidden: true
     - Approved as an oral tetracycline antibiotic for acne (e.g., Doryx, Vibramycin, Targadox 50mg).
     - Examples: Doxycycline hyclate or monohydrate.
 !!! Warning "Targadox PA information"
-    For all PAs on Targadox, always add that patient has used both <u><b>Doxyxycline Monohydrate</b></u> and 
-    <u><b>Doxycycline Hylcate</b></u>
+    For all PAs on Targadox, always add that patient has used <u><b>Doxycycline monohydrate 100mg, Doxycycline Hyclate 100mg, and Minocycline 100mg</b></u>
 
 ### <u  style="color:teal">Minocycline</u>
 - FDA Approval
