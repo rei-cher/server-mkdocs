@@ -9,9 +9,6 @@ jobs:
         runs-on: ubuntu-latest
         
         steps:
-            - name: Ping server
-              run: |
-                  ping -c 1 ${{ secrets.SSH_HOST }}
             - name: Set up SSH key
               run: |
                   mkdir -p ~/.ssh
