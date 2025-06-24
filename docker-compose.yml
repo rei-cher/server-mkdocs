@@ -4,11 +4,6 @@ services:
         build: .
         ports:
             - "8888:8888"
-        networks:
-            - inside-server
 
         restart: unless-stopped
 
-networks:
-  inside-server:
-    external: true
