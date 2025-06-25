@@ -55,7 +55,8 @@
 ## <b  style="color:red">Biologics (Injectable)</b>
 !!! tip "Important"
     With biologics, it is <u>necessary</u> to invlude thoose lines (even if some portions was answered during Q&A)
-
+    <br/><b><u>Include Blood Work (BW) lab report</u></b>
+    
     ```
     Patient will continue using topical emollients in problem areas. 
     Patient will not be on any biologics, jak inhibiters, or immunossupressants. 

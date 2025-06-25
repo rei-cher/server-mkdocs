@@ -6,4 +6,9 @@ services:
             - "8888:8888"
 
         restart: unless-stopped
+        networks:
+            - inside-server
 
+networks:
+    inside-server:
+        external: true
