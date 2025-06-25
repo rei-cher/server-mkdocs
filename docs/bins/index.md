@@ -30,6 +30,8 @@ So, just by typing the `Aetna Commercial`, we will get the right form for this i
 ## New Jersey
 - [Horizon General](NJ/horizon/general.md)
 - [Horizon Medicare Part D](NJ/horizon/medicare_d.md)
+- [United Healthcare](NJ/united_healthcare/community.md)
+- [Aetna Better Health Medicaid](NJ/aetna/medicaid.md)
 
 ## New York
 !!! tip "Important"
