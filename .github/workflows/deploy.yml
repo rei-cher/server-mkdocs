@@ -9,15 +9,14 @@ jobs:
         runs-on: ubuntu-latest
         
         steps:
-            - name: Ping server
-              run: |
-                  ping -c 1 ${{ secrets.SSH_HOST }}
             - name: Set up SSH key
               run: |
-                  mkdir -p ~/.ssh
-                  echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_ed25519
-                  chmod 600 ~/.ssh/id_ed25519
-                  ssh-keyscan -H ${{ secrets.SSH_HOST }} >> ~/.ssh/known_hosts
+                    mkdir -p ~/.ssh
+                    cat <<EOF > ~/.ssh/id_ed25519
+                    ${{ secrets.SSH_PRIVATE_KEY }}
+                    EOF
+                    chmod 600 ~/.ssh/id_ed25519
+                    ssh-keyscan -H ${{ secrets.SSH_HOST }} >> ~/.ssh/known_hosts
 
             - name: Run restart.sh on server
               run: |

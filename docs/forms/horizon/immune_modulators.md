@@ -1,5 +1,5 @@
 # Targeted Immune Modulators
-## Questions that should be answered the same no matter what medication
+## Questions that should be answered the same no matter what medication.
 1. Is the disease active?
     `Yes`
 2. Is the disease chronic?
