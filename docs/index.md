@@ -26,3 +26,6 @@ Welcome to the Medical Diagnoses Documentation site. This documentation covers v
 
 ## Forms
 - [Horizon Immune Modulators](forms/horizon/immune_modulators.md)
+
+## BIN
+- [Access Bin Number](bins/index.md)
