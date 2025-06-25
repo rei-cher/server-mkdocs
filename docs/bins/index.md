@@ -18,6 +18,15 @@ So, just by typing the `Aetna Commercial`, we will get the right form for this i
 !!! note
     It doesn't always apply like that to other insurances. <br/> So, for some additional information in regards of bin numbers follow the links below
 
+!!! warning "Patient not found"
+
+    In case, form is not able to either find a patient or confirm the coverage, check:
+
+    1. Confirm the patient first and last name with the information that insurance has (use NaviNet or any other source)
+    2. Confirm patient address with the information that the insurance has (use NaviNet or any other source)
+    3. Confirm patient has an active pharmacy coverage with the insurance that you are trying to send a PA (patient might have another insurance or coverage for pharmacy benefits)
+    4. Call the pharmacy, so they can create a PA key with the information that they have on file
+
 ## New Jersey
 - [Horizon General](NJ/horizon/general.md)
 - [Horizon Medicare Part D](NJ/horizon/medicare_d.md)
