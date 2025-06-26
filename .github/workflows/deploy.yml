@@ -1,24 +1,33 @@
 name: Auto Deployment
 
 on:
-    push:
-        branches:
-            - master
-jobs:
-    deploy:
-        runs-on: ubuntu-latest
-        
-        steps:
-            - name: Set up SSH key
-              run: |
-                    mkdir -p ~/.ssh
-                    cat <<EOF > ~/.ssh/id_ed25519
-                    ${{ secrets.SSH_PRIVATE_KEY }}
-                    EOF
-                    chmod 600 ~/.ssh/id_ed25519
-                    ssh-keyscan -H ${{ secrets.SSH_HOST }} >> ~/.ssh/known_hosts
+  push:
+    branches:
+      - master
 
-            - name: Run restart.sh on server
-              run: |
-                  ssh -p 2222 -i ~/.ssh/id_ed25519 ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }} \
-                  'cd ~/projects/server-utils/server-mkdocs && bash ./restart.sh'
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Set up SSH key
+        run: |
+          mkdir -p ~/.ssh
+          cat <<EOF > ~/.ssh/git_key_nopass
+          ${{ secrets.SSH_PRIVATE_KEY }}
+          EOF
+          chmod 600 ~/.ssh/git_key_nopass
+          ssh-keyscan -H -p 2222 ${{ secrets.SSH_HOST }} >> ~/.ssh/known_hosts || {
+            echo "Failed to scan SSH host. Check SSH_HOST or port 2222 availability."
+            exit 1
+          }
+
+      - name: Verify SSH connection
+        run: |
+          ssh -i ~/.ssh/git_key_nopass -p 2222 -o StrictHostKeyChecking=no ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }} "whoami && pwd"
+        continue-on-error: true  # For debugging
+
+      - name: Run restart.sh on server
+        run: |
+          ssh -i ~/.ssh/git_key_nopass -p 2222 ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }} \
+            'cd ~/projects/server-utils/server-mkdocs && bash ./restart.sh || { echo "Failed to run restart.sh"; exit 1; }'
