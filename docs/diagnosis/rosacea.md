@@ -1,4 +1,4 @@
-# L71.9 (ROSACEA)
+# L71.9 - ROSACEA
 
 ## <b  style="color:red">Topical Medications</b>
 

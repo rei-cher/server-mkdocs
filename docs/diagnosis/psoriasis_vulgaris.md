@@ -1,4 +1,4 @@
-# L40.0 (PSORIASIS VULGARIS)
+# L40.0 - PSORIASIS VULGARIS
 <b style="font-size:30px"><u>Plague Psoriasis</u></b>
 
 ## <b  style="color:red">Topical Treatments</b>

@@ -2,7 +2,7 @@
 hidden: true
 ---
 
-# L70.0 (ACNE VULGARIS)
+# L70.0 - ACNE VULGARIS
 !!! note
     Benzoyl peroxide and adapalene (Differin 0.1%) are notable for being FDA-approved 
     and available without a prescription, making them accessible first-line options.

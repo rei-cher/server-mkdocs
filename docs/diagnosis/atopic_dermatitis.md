@@ -1,4 +1,4 @@
-# L20.89 (ATOPIC DERMATITIS)
+# L20.89 - ATOPIC DERMATITIS
 
 ## <b  style="color:red">Class VII (Least Potent)</b>
 ### <u  style="color:teal">Hydrocortisone</u>
