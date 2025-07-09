@@ -17,6 +17,8 @@ hidden: true
 - FDA Approval
     - Approved as a prescription retinoid (e.g., Differin 0.1% and 0.3%) and later as OTC (Differin Gel 0.1%) for ages 12 and older since 2016.
     - Examples: Differin Gel.
+     !!! Note ""
+            In order to get Adapalene cream approved you must add Adapalene 0.1% gel (ineffective and burning). 
 
 ### <u  style="color:teal">Tretinoin</u>
 - FDA Approval
