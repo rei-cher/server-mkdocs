@@ -13,7 +13,7 @@ hidden: true
     - Approved for <b  style="color:red">OTC</b> use in various streangths (2.5%, 5%, 10%)
     - <b  style="color:red">Examples:</b> Available in cleansers, gels, and creams (e.g., PanOxyl, Benzac).
 
-### <u  style="color:teal">Adapalene</u>
+### <u  style="color:teal">Adapalene (Differin)</u>
 - FDA Approval
     - Approved as a prescription retinoid (e.g., Differin 0.1% and 0.3%) and later as OTC (Differin Gel 0.1%) for ages 12 and older since 2016.
     - Examples: Differin Gel.
