@@ -54,6 +54,9 @@ hidden: true
 !!! tip "Important"
     In order for combination drug be approved, patient has to try and fail the individual components when taken simultaneously.
 
+### <u  style="color:teal">Onexton 1.2%-3.75% gel </u>
+- Clindamycin Phosphate + Benzoyl Peroxide 1.2-3.75% gel
+
 ### <u  style="color:teal">Epiduo/Epiduo Forte </u>
 - Adapalene + Benzoyl Peroxide
 
