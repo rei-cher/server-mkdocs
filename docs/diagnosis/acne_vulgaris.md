@@ -25,6 +25,8 @@ hidden: true
 - FDA Approval
     - Approved as a prescription topical retinoid in multiple strengths (e.g., 0.025%, 0.05%, 0.1%).
     - Examples: Retin-A, Avita, Altreno.
+      !!! Note ""
+              Check form for Oncology before submitting, should be swithed to general.
 
 ### <u  style="color:teal">Tazarotene</u>
 - FDA Approval
